@@ -1,0 +1,17 @@
+{
+  "logincredentials": [
+    {
+      "name": "sridhar",
+      "email": "sl123@gmail.com",
+      "password": "234kdssa",
+      "id": 1
+    },
+    {
+      "username": "supriya kumari",
+      "useremail": "skre1234@gmail.com",
+      "userpass": "456phgferty",
+      "id": 2
+    }
+    
+  ]
+}
