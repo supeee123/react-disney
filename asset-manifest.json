@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-disney/static/css/main.2a3445a5.css",
+    "main.js": "/react-disney/static/js/main.a8ed97c6.js",
+    "static/media/login-background.jpg": "/react-disney/static/media/login-background.05b1a1b3088cbb458939.jpg",
+    "index.html": "/react-disney/index.html",
+    "main.2a3445a5.css.map": "/react-disney/static/css/main.2a3445a5.css.map",
+    "main.a8ed97c6.js.map": "/react-disney/static/js/main.a8ed97c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a3445a5.css",
+    "static/js/main.a8ed97c6.js"
+  ]
+}
